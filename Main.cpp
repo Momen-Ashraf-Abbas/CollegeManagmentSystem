@@ -9,4 +9,5 @@ int main() {
 		Gst1 << "opend successfully" << endl;
 		Gst1.close();
 	}
+	return 0;
 }
